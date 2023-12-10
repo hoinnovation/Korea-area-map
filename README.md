@@ -9,15 +9,17 @@
 
 
 ### 2️⃣ 디렉토리 설명
-* GeoJson파일은 지오서비스에서 제공하는 [대한민국의 행정구역에 대한 시도, 시군구, 읍면동(법정동), 에 대한 공간 데이터](http://www.gisdeveloper.co.kr/?p=2332)를 활용했습니다.
+### 데이터 공유 
+* GeoJson파일은 지오서비스에서 제공하는 대한민국의 행정구역에 대한 시도, 시군구, 읍면동(법정동), 에 대한 공간 데이터 [링크](http://www.gisdeveloper.co.kr/?p=2332)를 활용했습니다.
 * (2023.12.10) 기준 가장 최신 데이터인 (2023년 7월 업데이트)를 활용했습니다.
+  * [시군구 GeoJson파일 구글드라이브 공유](https://drive.google.com/file/d/1LeVTTpCUlPszLPQ_IUE60SNDdrdfTQ7l/view?usp=drive_link)
+  * [읍면동 GeoJson파일 구글드라이브 공유](https://drive.google.com/file/d/11m7LrATcquLYVQKNJcYHOEAxB2dmGE33/view?usp=drive_link)
+
+## 디렉토리 설명
 ```html
 ├── code
 │	├── 2.1. Folium 소개
 │	└── 2.2. 법정동 경계선 시각화
-├── data
-│	├── sig.json -- 시군구
-│	└── emd.json -- 읍면동
 └── README.md
 ```
 

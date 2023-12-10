@@ -15,7 +15,7 @@
   * [시군구 GeoJson파일 구글드라이브 공유](https://drive.google.com/file/d/1LeVTTpCUlPszLPQ_IUE60SNDdrdfTQ7l/view?usp=drive_link)
   * [읍면동 GeoJson파일 구글드라이브 공유](https://drive.google.com/file/d/11m7LrATcquLYVQKNJcYHOEAxB2dmGE33/view?usp=drive_link)
 
-## 디렉토리 설명
+### 디렉토리 설명
 ```html
 ├── code
 │	├── 2.1. Folium 소개
